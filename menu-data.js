@@ -5,7 +5,7 @@
 })(typeof window !== "undefined" ? window : globalThis, function () {
   return {
     restaurant: {
-      name: "شورما بكر",
+      name: "شاورما بكر",
       location: "نعلين – رام الله"
     },
     currency: { symbol: "₪", name: "شيقل" },
@@ -19,7 +19,7 @@
     sections: [
       {
         id: "chicken",
-        name: "شورما دجاج",
+        name: "شاورما دجاج",
         availability: "",
         items: [
           { id: "chicken-wrap", name: "لفة", price: "20", image: "assets/images/chicken-wrap.jpg", photoMatchRequired: true },
@@ -35,7 +35,7 @@
       },
       {
         id: "turkey",
-        name: "شورما حبش",
+        name: "شاورما حبش",
         availability: "",
         items: [
           { id: "turkey-wrap", name: "لفة", price: "23", image: "assets/images/turkey-wrap.jpg", photoMatchRequired: true },
